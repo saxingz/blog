@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Searches on Huabing Blog</title>
-    <link>http://coderzh.github.io/search/</link>
-    <description>Recent content in Searches on Huabing Blog</description>
+    <title>Searches on Saxing Blog</title>
+    <link>http://saxingz.github.io/search/</link>
+    <description>Recent content in Searches on Saxing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://coderzh.github.io/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://saxingz.github.io/search/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://coderzh.github.io/search/placeholder/</link>
+      <link>http://saxingz.github.io/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://coderzh.github.io/search/placeholder/</guid>
+      <guid>http://saxingz.github.io/search/placeholder/</guid>
       <description></description>
     </item>
     
